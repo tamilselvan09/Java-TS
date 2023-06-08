@@ -6,7 +6,7 @@ public class one {
         float sal = 45000.00f;
         double salary =55000.00;
         
-        char size ='T';
+        char size ='P';
         boolean availablity = false;
 
 

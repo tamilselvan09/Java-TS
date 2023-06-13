@@ -15,8 +15,8 @@ static int c = 300;
     System.out.println(c);    //300
     System.out.println(t1.a);  //100
     System.out.println(t2.b);  //200
-    t2.c = 10000;
-    System.out.println(t1.c);  //10000
+  //  t2.c = 10000;
+    //System.out.println(t1.c);  //10000
     System.out.println(c);  //10000
 
     

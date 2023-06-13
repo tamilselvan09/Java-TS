@@ -13,7 +13,7 @@ public class Emp {
         System.out.println(e2);   //@
 
         System.out.println(emp_Org);   //TCS
-        System.out.println(e1.emp_Org);  //TCS
+       // System.out.println(e1.emp_Org);  //TCS
         System.out.println(Emp.emp_Org);   //TCS
 
 

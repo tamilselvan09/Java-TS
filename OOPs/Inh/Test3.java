@@ -7,7 +7,7 @@ class child extends parent{
 }
 public class Test3{
     public static void main(string[] args){
-        child obj=new parent(); //child can't hold parent 
+        child obj=new parent(); //child can't hold parent , so we can't create obj 
         obj.m1();               // so we can't excicute, incompatible type
     }
 }

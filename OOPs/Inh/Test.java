@@ -12,7 +12,7 @@ class child extends parent{
 
 public class Test{
        public static void main(String[] args){
-        parent p1=new parent();
+        parent p1=new parent();  //creating parent obj
         p1.m1();
         p1.m2();
         //p1.m3();  //method not found

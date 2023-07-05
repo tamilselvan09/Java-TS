@@ -9,9 +9,8 @@ class Test{
     public void set_Min_Bal(double bal){
         this.min_Bal = bal;
     }
-}
 
-public class Account{
+//public class Test1{
     public static void main(String[] args){
         Test a1 = new Test();
        // Account a2 = new Account();

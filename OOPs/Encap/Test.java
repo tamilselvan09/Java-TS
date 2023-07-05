@@ -1,4 +1,4 @@
-class Account{
+class Test{
     private double min_Bal; 
     //we can't private method outside the class so we want public method
     //so we generate or create the setter and getter
@@ -11,9 +11,9 @@ class Account{
     }
 }
 
-public class Test{
+public class Account{
     public static void main(String[] args){
-        Account a1 = new Account();
+        Test a1 = new Test();
        // Account a2 = new Account();
 
         a1.set_Min_Bal(1000.00);

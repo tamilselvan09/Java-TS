@@ -1,4 +1,7 @@
+//UN_CHECKED
+
 //InterruptedException
+//Compile time error
 
 class TestOne{
     public static void main(String[] args){

@@ -10,4 +10,4 @@ class TestOne{
 }
 
 //We can't excicute line number 5 because it creacing the exception 
-//we excicute line number 5 using try catch or throws
+//we excicute line number 8 using try catch or throws

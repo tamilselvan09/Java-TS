@@ -1,0 +1,3 @@
+Interface To Interface ---> Extends
+Class To Interface     ---> Impliment
+Implement To Class     ---> Extends

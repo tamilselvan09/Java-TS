@@ -1,0 +1,33 @@
+Core Java:
+  *JDK, JVM, JRM
+  *OOPs Concepts
+  *Wrapper Classes
+  *String,String Pool
+  *Exception Handling(Checked,Un-Checked)
+  *Threads(Multithreadling)
+  *JDBC
+  *Files lO
+
+
+Advanced :
+ #Collection Classes
+ #List, Set, Map
+ #Comparator and Comparable
+ #Interfaces
+ #Iterators
+
+
+J2EE :
+JSP, Servlets
+App Servers and Web Servers
+Baasics of HTML, CSS & JS
+
+Frameworks :
+
+$ Spring
+$ Spring Core/ lOC
+$ Spring Boot basics
+$ Hibernate bascis
+
+
+Add SDLC & Agile Methodolgy explanation 

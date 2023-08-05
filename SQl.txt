@@ -1,0 +1,9 @@
+SQL :
+
+#DDL & DML
+#joins
+#Cursors
+#Indexes
+#Procedures & functions
+
+Basic RDBMS concepts

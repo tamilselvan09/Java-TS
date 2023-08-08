@@ -6,4 +6,5 @@ SQL : Structured Query Language
 #Indexes
 #Procedures & functions
 
-Basic RDBMS concepts
+Basic Conxepts 
+RDBMS Concepts

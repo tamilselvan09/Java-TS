@@ -14,13 +14,14 @@ Core Java:
 
 Advanced :
  #Collection Classes
- #List, Set, Map
+ #List, Set, Map, Queue
  #Comparator and Comparable
  #Interfaces
  #Iterators
 
 
 J2EE :
+
 JSP, Servlets
 App Servers and Web Servers
 Baasics of HTML, CSS & JS
